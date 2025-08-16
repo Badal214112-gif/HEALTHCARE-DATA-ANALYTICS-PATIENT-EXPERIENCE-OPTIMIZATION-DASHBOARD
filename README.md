@@ -1,2 +1,12 @@
-# HEALTHCARE-DATA-ANALYTICS-PATIENT-EXPERIENCE-OPTIMIZATION-DASHBOARD
-Developed an Excel-based dashboard to analyze hospital emergency room data of ~480 patients. The project tracks daily patient trends, admission status, average wait times, and satisfaction scores. Using pivot tables and interactive charts, it delivers actionable insights to improve hospital care efficiency.
+from docx import Document
+doc = Document()
+
+# Title
+doc.add_heading("Hospital Emergency Room Dashboard", level=1)
+
+# Intro
+doc.add_paragraph(
+    "This project analyzes hospital emergency room data using Excel. "
+    "The dataset contains around 480 patient records with details on admissions, wait times, satisfaction scores, and demographics. "
+    "The goal of the project is to provide hospital management with actionable insights to improve patient care efficiency."
+)
