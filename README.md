@@ -31,5 +31,5 @@ Hospital ER Dataset (CSV + Excel)
 This project is shared as a portfolio piece and can be reused by others as a reference for creating Excel dashboards from healthcare datasets. It highlights data cleaning, KPI tracking, and dashboard creation that are useful for analytics and consulting roles.
 
 
-## DATA SETS USED
+## Data Sets Used
 - <a href="https://github.com/Badal214112-gif/HEALTHCARE-DATA-ANALYTICS-PATIENT-EXPERIENCE-OPTIMIZATION-DASHBOARD/blob/main/Project%201.xlsx">Project</a>
