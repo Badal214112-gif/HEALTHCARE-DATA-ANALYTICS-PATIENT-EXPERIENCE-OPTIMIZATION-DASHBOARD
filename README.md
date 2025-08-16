@@ -34,4 +34,4 @@ This project is shared as a portfolio piece and can be reused by others as a ref
 ## PROJECT
 - <a href="https://github.com/Badal214112-gif/HEALTHCARE-DATA-ANALYTICS-PATIENT-EXPERIENCE-OPTIMIZATION-DASHBOARD/blob/main/Project%201.xlsx">Project</a>
 ## DATA SET USED
-- <a href="[https://github.com/Badal214112-gif/HEALTHCARE-DATA-ANALYTICS-PATIENT-EXPERIENCE-OPTIMIZATION-DASHBOARD/blob/main/Project%201.xlsx](https://github.com/Badal214112-gif/HEALTHCARE-DATA-ANALYTICS-PATIENT-EXPERIENCE-OPTIMIZATION-DASHBOARD/blob/main/Hospital%20Emergency%20Room%20Data.csv)">Project</a>
+- <a href="[https://github.com/Badal214112-gif/HEALTHCARE-DATA-ANALYTICS-PATIENT-EXPERIENCE-OPTIMIZATION-DASHBOARD/blob/main/Project%201.xlsx](https://github.com/Badal214112-gif/HEALTHCARE-DATA-ANALYTICS-PATIENT-EXPERIENCE-OPTIMIZATION-DASHBOARD/blob/main/Hospital%20Emergency%20Room%20Data.csv)">Data Set</a>
