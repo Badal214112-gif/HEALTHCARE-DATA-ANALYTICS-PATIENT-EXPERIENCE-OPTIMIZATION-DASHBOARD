@@ -1,6 +1,6 @@
 # Hospital Emergency Room Dashboard
 
-This project analyzes hospital emergency room data using Excel. The dataset contains around 480 patient records with details on admissions, wait times, satisfaction scores, and demographics. The goal of the project is to provide hospital management with actionable insights to improve patient care efficiency.
+This project analyzes hospital emergency room data using Excel. The dataset contains around 9000+ patient records with details on admissions, wait times, satisfaction scores, and demographics. The goal of the project is to provide hospital management with actionable insights to improve patient care efficiency.
 
 ## Features
 
